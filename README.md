@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Sillen00
-- 👀 I’m interested in all kinds of activities like: ping pong, wakeboard, badminton, snowboard, motorcykle, mountainbiking and much much more :D <br>Other intrests are health and food, <br>Economy and today's monetary system. #Bitcoin, <br>Being in nature and in the sun, <br> Traveling, <br>Personal development and inner peace, <br>And of course Coding :D
+- 👀 I’m a competitive guy with interested in all kinds of activities like: Riding motorcykle, ping pong, wakeboard, badminton, snowboard, mountainbiking and much much more :D <br>Other intrests are health and food, <br>Economy and today's monetary system. #Bitcoin, <br>Being in nature and in the sun, <br> Traveling, <br>Personal development, <br>And of course Coding :D
       
-- 🌱 I’m currently learning FrontEnd Development,
-      HyperText Markup Languege (HTML), 
-      Cascading Style Sheet (CSS), 
-      JavaScript (JS)
+- 🌱 I’m currently studying to FrontEnd Development at Medieinstitutet Göteborg.
       
 - 💞️ I’m looking to collaborate on above interest topics :D
 

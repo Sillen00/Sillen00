@@ -13,6 +13,6 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
       
 - 💞️ I’m looking to collaborate on above interest topics :D
 
-- 📫 How to reach me: Mail: sillen.00@hotmail.com
+- 📫 How to reach me: Mail: bengtsson.simon@medieinstitutet.se `or` sillen.00@hotmail.com
 - Feel free to messege me on Github (and challange me for a ping pong match!) :D
 

@@ -10,8 +10,14 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
 ![image](https://user-images.githubusercontent.com/114336470/216715964-6dc8da52-e438-4ae2-a476-3b8c315ee7f3.png)
 ![image](https://user-images.githubusercontent.com/114336470/216716216-799b6d1d-8b45-4a6e-a0ec-9d568deeecfd.png)
 ![image](https://user-images.githubusercontent.com/114336470/216716240-734dd0ce-fc43-4daa-a328-9f7874a5f735.png)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/457781e7-7163-4df9-a252-eff9ea0d5076)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/fc3b32db-ea1e-47f7-810a-97d22219997e)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/25d1c8b1-eba2-4ebc-99b4-dd868f268140)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/451a98d3-ddd3-4f05-b668-024e049c2dee)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/fe3a2ef2-65b6-4870-abb8-b3e923942afd)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/38bde6af-0413-4349-a678-d1cfcc9c8784)
+![image](https://github.com/Sillen00/Sillen00/assets/114336470/6ba60368-495a-4c5b-9fd4-55c240a94e7d)
 
-(![image](https://github.com/Sillen00/Sillen00/assets/114336470/457781e7-7163-4df9-a252-eff9ea0d5076)
       
 - 💞️ I’m looking to collaborate on above interest topics :D
 

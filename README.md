@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sillen00
-- 👀 I’m a competitive guy with interested in all kinds of activities like: Riding motorcykle, ping pong, wakeboard, badminton, snowboard, mountainbiking and much much more :D <br>Other intrests are health and food, <br>Economy and today's monetary system. #Bitcoin, <br>Being in nature and in the sun, <br> Traveling, <br>Personal development, <br>And of course Coding :D
+- 👀 I’m a competitive guy with interested in all kinds of activities like: Riding motorcykle, ping pong, wakeboard, badminton, snowboard, mountainbiking and much much more :D <br>Other intrests are health and food, <br>Economy and today's monetary system., <br>Being in nature and in the sun, <br> Traveling, <br>Personal development, <br>And of course Coding :D
       
 - 🌱 I’m currently studying to FrontEnd Development at Medieinstitutet Göteborg. <br>
 Learning for instance:<br> ![image](https://user-images.githubusercontent.com/114336470/216715500-c5f61dce-0599-4cb8-a3b1-1c03bfefabce.png)
@@ -19,9 +19,9 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
 ![image](https://github.com/Sillen00/Sillen00/assets/114336470/6ba60368-495a-4c5b-9fd4-55c240a94e7d)
 
       
-- 💞️ I’m looking to collaborate on above interest topics :D
+- 🤝 I’m looking to collaborate on above interest topics :D
 
 - 📫 How to reach me: Mail: bengtsson.simon@medieinstitutet.se `or` sillen.00@hotmail.com
-- Feel free to messege me on Github (and challange me for a ping pong match!) :D
+- Feel free to messege me on Github :D
 
--⚠️Information: I have had an internship at a company from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)
+- ⚠️Information: I have had an internship at a company from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)

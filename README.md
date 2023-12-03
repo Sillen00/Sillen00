@@ -19,9 +19,9 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
 ![image](https://github.com/Sillen00/Sillen00/assets/114336470/6ba60368-495a-4c5b-9fd4-55c240a94e7d)
 
       
-- 🤝 I’m looking to collaborate on above interest topics :D
+- 🤝 I’m looking to collaborate on above interest topics.
 
 - 📫 How to reach me: Mail: bengtsson.simon@medieinstitutet.se `or` sillen.00@hotmail.com
-- Feel free to messege me on Github :D
+- Feel free to messege me on Github!
 
 - ⚠️Information: I have had an internship at a company from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)

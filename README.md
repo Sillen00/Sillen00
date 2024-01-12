@@ -24,4 +24,4 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
 - 📫 How to reach me: Mail: bengtsson.simon@medieinstitutet.se `or` sillen.00@hotmail.com
 - Feel free to messege me on Github!
 
-- ⚠️<span style="color:red;">INFORMATION</span>: I have had an internship at a company from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)
+- ⚠️ $${\color{red}INFORMATION:}$$ I have had an internship at a company from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)

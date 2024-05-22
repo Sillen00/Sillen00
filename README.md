@@ -21,7 +21,7 @@ Learning for instance:<br> ![image](https://user-images.githubusercontent.com/11
       
 - 🤝 I’m looking to collaborate on above interest topics.
 
-- 📫 How to reach me: Mail: bengtsson.simon@medieinstitutet.se `or` sillen.00@hotmail.com
+- 📫 How to reach me: Mail: simonbengtsson00@gmail.com `or` sillen.00@hotmail.com
 - Feel free to messege me on Github!
 
 $${\color{red}INFORMATION:}$$ I have had an internship at a company 2023 from September 11th to November 17th that did not use GitHub hence, my Contributions activity looks quite empty during this period. I just wanted to mention that I have still been coding throughout this time. :)
